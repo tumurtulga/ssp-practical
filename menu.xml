@@ -3,7 +3,7 @@
     <category name="Coffee">
         <item>
             <listing>Espresso</listing>
-            <price>3.00</price>
+            <price>3.10</price>
         </item>
         <item>
             <listing>Latte</listing>
@@ -16,15 +16,15 @@
     </category>
     <category name="Frappe">
         <item>
-            <listing>Salted Caramel Frappe</listing>
+            <listing>Salted Caramel Frappé</listing>
             <price>4.50</price>
         </item>
         <item>
-            <listing>Pumpkin Spice Frappe</listing>
+            <listing>Pumpkin Spice Frappé</listing>
             <price>5.00</price>
         </item>
         <item decaf="true">
-            <listing>Mint Chocolate Frappe</listing>
+            <listing>Mint Chocolate Frappé</listing>
             <price>5.00</price>
         </item>
     </category>
@@ -35,7 +35,7 @@
         </item>
         <item>
             <listing>Iced Shaken Espresso</listing>
-            <price>3.90</price>
+            <price>3.80</price>
         </item>
         <item decaf="true">
             <listing>Iced Flat White</listing>
@@ -62,7 +62,7 @@
             <price>4.50</price>
         </item>
         <item>
-            <listing>Vanilla Cheesecake</listing>
+            <listing>Vanila Cheescake</listing>
             <price>4.50</price>
         </item>
         <item>
